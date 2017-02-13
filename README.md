@@ -1,6 +1,6 @@
 # MySQL
 
-Intro here as to the purpose of this playbook/componet section
+Intro here as to the purpose of this playbook/component section
 
 
 ##### [Pre-reqs (Universal across/components)](https://github.com/eugenebell/testdocs/blob/master/MySQL-Pre-Reqs.md) 
