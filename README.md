@@ -21,7 +21,7 @@ GSS Pivotal Cloud Foundry Guide
     -   [Ops Manager]
     -   [Metrics]
  -   Services
-    -   [MySQL](https://github.com/pivotal-gss/pcf-guide#mysql)
+    -   [MySQL](https://github.com/eugenebell/testdocs/blob/master/MySQL-README.md)
     -   [RabbitMQ]
     -   [Concourse]
     -   [Gemfire]
