@@ -10,11 +10,6 @@ GSS Pivotal Cloud Foundry Guide
  -   Cloud Foundry
     -   [Consul]
     -   [ETCD]
-    -   [CAPI]
-    -   [Diego]
-    -   [Router]
-    -   [Service Registration]
-    -   [Buildpacks]
     -   [Loggregator]
  -   Pivotal Cloud Foundry
     -   [Apps Manager]
@@ -28,7 +23,7 @@ GSS Pivotal Cloud Foundry Guide
     -   [Push Notifications]
     -   [Redis]
     -   [Spring Cloud Services]
- -   [IaaS/Provider]
+ -   [IaaS]
     -   [Amazon Web Services (AWS)]
     -   [Google Compute Platform (GCP)]
     -   [Microsoft Azure]
