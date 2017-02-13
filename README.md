@@ -16,7 +16,7 @@ GSS Pivotal Cloud Foundry Guide
     -   [Ops Manager]
     -   [Metrics]
  -   Services
-    -   [MySQL](https://github.com/eugenebell/testdocs/blob/master/MySQL-README.md)
+    -   [MySQL](https://github.com/eugenebell/testdocs/blob/master/component/MySQL/MySQL-README.md)
     -   [RabbitMQ]
     -   [Concourse]
     -   [Gemfire]
