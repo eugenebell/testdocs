@@ -1,1 +1,13 @@
-MySQL-Training
+# Purpose:
+
+
+# Sections:
+## Videos
+
+## Classes
+
+## Books
+
+## Core technologies 
+### MySQL
+
